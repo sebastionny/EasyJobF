@@ -1,0 +1,18 @@
+[
+    {
+        "nomReto": "res Restau",
+        "adresse": "",
+        "province": "quebec",
+        "ville": "laval",
+        "codePostal": "",
+        "tel": "",
+        "description": ""
+    },
+    {
+        "nom": "res",
+        "prenom": "res",
+        "courriel": "res@tallern.com",
+        "motDePasse": "123",
+        "telCompte": ""
+    }
+]

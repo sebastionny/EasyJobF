@@ -1,11 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d6a556c-7df8-4084-9894-fb0af97aaf03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EasyJobF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profil/10239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profil/10239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profil/14360.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleur/ActionBuilder.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/controleur/ActionBuilder.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleur/ContactUsAction.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/controleur/ContactUsAction.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleur/LoginAction.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/controleur/LoginAction.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleur/ProfilEmployeAction.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/controleur/ProfilEmployeAction.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controleur/SignInEmployeAction.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/controleur/SignInEmployeAction.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/user/compte.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/user/compte.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modele/DisponibiliteDAO.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/modele/DisponibiliteDAO.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modele/EmployeDAO.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/modele/EmployeDAO.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modele/classes/Disponibilite.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/modele/classes/Disponibilite.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modele/classes/Employe.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/modele/classes/Employe.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modele/configs/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/modele/configs/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vues/contactUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/vues/contactUs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vues/include/employe/profil.php" beforeDir="false" afterPath="$PROJECT_DIR$/vues/include/employe/profil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vues/include/resto/inscriptionR.php" beforeDir="false" afterPath="$PROJECT_DIR$/vues/include/resto/inscriptionR.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vues/include/resto/profil.php" beforeDir="false" afterPath="$PROJECT_DIR$/vues/include/resto/profil.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RkNRYymqhTmDfByVRD3mbWGulO" />
+  <component name="ProjectId" id="1RkO4EFbbtR8JBgRWvbZhS9fFLB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d6a556c-7df8-4084-9894-fb0af97aaf03" name="Default Changelist" comment="" />
+      <created>1570207433648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570207433648</updated>
+      <workItem from="1570207434852" duration="125000" />
+      <workItem from="1570207586961" duration="156000" />
+      <workItem from="1570208574013" duration="18424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
